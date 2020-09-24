@@ -1,3 +1,5 @@
 Hello my name is Sina.
 
 Feature A added
+
+new lines added
