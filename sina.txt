@@ -4,3 +4,8 @@ FeatureB is modified
 Feature A added
 
 new lines added
+
+
+== chapter 1
+
+this is chapter 1
