@@ -1,3 +1,9 @@
 Hello my name is Sina.
 
+<<<<<<< HEAD
 FeatureB is modified
+=======
+Feature A added
+
+new lines added
+>>>>>>> featureA
